@@ -1,4 +1,5 @@
 {
+  "main": ".svelte-kit/_worker.js",
   "assets": {
     "directory": ".svelte-kit/cloudflare",
     "binding": "ASSETS"
