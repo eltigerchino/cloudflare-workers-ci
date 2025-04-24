@@ -15,11 +15,11 @@ importers:
         specifier: ^2.0.0
         version: 2.2.2(svelte@5.28.2)
       '@sveltejs/adapter-auto':
-        specifier: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@38b2940
-        version: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@38b2940(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))
+        specifier: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@9d2e796
+        version: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@9d2e796(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))
       '@sveltejs/adapter-cloudflare':
-        specifier: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@38b2940
-        version: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@38b2940(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))(wrangler@4.12.1(@cloudflare/workers-types@4.20250423.0))
+        specifier: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@9d2e796
+        version: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@9d2e796(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))(wrangler@4.12.1(@cloudflare/workers-types@4.20250423.0))
       '@sveltejs/kit':
         specifier: ^2.16.0
         version: 2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2)
@@ -644,14 +644,14 @@ packages:
     peerDependencies:
       acorn: ^8.9.0
 
-  '@sveltejs/adapter-auto@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@38b2940':
-    resolution: {tarball: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@38b2940}
+  '@sveltejs/adapter-auto@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@9d2e796':
+    resolution: {tarball: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@9d2e796}
     version: 6.0.0
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
 
-  '@sveltejs/adapter-cloudflare@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@38b2940':
-    resolution: {tarball: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@38b2940}
+  '@sveltejs/adapter-cloudflare@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@9d2e796':
+    resolution: {tarball: https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@9d2e796}
     version: 7.0.1
     peerDependencies:
       '@sveltejs/kit': ^2.0.0
@@ -1426,12 +1426,12 @@ snapshots:
     dependencies:
       acorn: 8.14.1
 
-  '@sveltejs/adapter-auto@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@38b2940(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))':
+  '@sveltejs/adapter-auto@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-auto@9d2e796(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))':
     dependencies:
       '@sveltejs/kit': 2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2)
       import-meta-resolve: 4.1.0
 
-  '@sveltejs/adapter-cloudflare@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@38b2940(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))(wrangler@4.12.1(@cloudflare/workers-types@4.20250423.0))':
+  '@sveltejs/adapter-cloudflare@https://pkg.pr.new/sveltejs/kit/@sveltejs/adapter-cloudflare@9d2e796(@sveltejs/kit@2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2))(wrangler@4.12.1(@cloudflare/workers-types@4.20250423.0))':
     dependencies:
       '@cloudflare/workers-types': 4.20250423.0
       '@sveltejs/kit': 2.20.7(@sveltejs/vite-plugin-svelte@5.0.3(svelte@5.28.2)(vite@6.3.2))(svelte@5.28.2)(vite@6.3.2)
